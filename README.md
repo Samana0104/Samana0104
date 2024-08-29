@@ -1,6 +1,14 @@
-## Hi there 👋
+## About me  ##
+__1. Using languages__
+1. Korean
+2. Japanese
+3. english
 
-<!--
+__2. For contact__
+1. email   :  b_hb0104@naver.com
+2. discord :  samana0104
+
+
 **Samana0104/Samana0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
