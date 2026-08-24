@@ -1,8 +1,8 @@
 ## About me  ##
 __1. Using languages__
-1. Korean
-2. Japanese
-3. English
+1. c
+2. c++
+3. python
 
 __2. For contact__
 1. Email   :  b_hb0104@naver.com
